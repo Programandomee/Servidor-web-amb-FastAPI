@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nom": "Anna",
+        "cognom": "Martínez",
+        "data_naixement": {
+            "dia": 15,
+            "mes": 3,
+            "any": 2000
+        },
+        "email": "anna.martinez@example.com",
+        "treballa": false,
+        "curs": "DAW",
+        "edat": 23
+    },
+    {
+        "id": 2,
+        "nom": "Pere",
+        "cognom": "Gómez",
+        "data_naixement": {
+            "dia": 22,
+            "mes": 7,
+            "any": 1999
+        },
+        "email": "pere.gomez@example.com",
+        "treballa": true,
+        "curs": "ASIX",
+        "edat": 24
+    }
+]
