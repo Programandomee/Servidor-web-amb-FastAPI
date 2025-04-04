@@ -2,29 +2,66 @@
     {
         "id": 1,
         "nom": "Anna",
-        "cognom": "Martínez",
-        "data_naixement": {
+        "cognom": "Garcia",
+        "data": {
             "dia": 15,
             "mes": 3,
             "any": 2000
         },
-        "email": "anna.martinez@example.com",
-        "treballa": false,
-        "curs": "DAW",
-        "edat": 23
+        "email": "anna.garcia@itic.com",
+        "feina": false,
+        "curs": "DAW"
     },
     {
         "id": 2,
         "nom": "Pere",
-        "cognom": "Gómez",
-        "data_naixement": {
+        "cognom": "Martinez",
+        "data": {
             "dia": 22,
             "mes": 7,
             "any": 1999
         },
-        "email": "pere.gomez@example.com",
-        "treballa": true,
-        "curs": "ASIX",
-        "edat": 24
+        "email": "pere.martinez@itic.com",
+        "feina": true,
+        "curs": "ASIX"
+    },
+    {
+        "id": 3,
+        "nom": "Maria",
+        "cognom": "Lopez",
+        "data": {
+            "dia": 10,
+            "mes": 11,
+            "any": 2001
+        },
+        "email": "maria.lopez@itic.com",
+        "feina": false,
+        "curs": "DAM"
+    },
+    {
+        "id": 4,
+        "nom": "Joan",
+        "cognom": "Sanchez",
+        "data": {
+            "dia": 5,
+            "mes": 1,
+            "any": 1998
+        },
+        "email": "joan.sanchez@itic.com",
+        "feina": true,
+        "curs": "DAW"
+    },
+    {
+        "id": 5,
+        "nom": "Laura",
+        "cognom": "Fernandez",
+        "data": {
+            "dia": 30,
+            "mes": 9,
+            "any": 2002
+        },
+        "email": "laura.fernandez@itic.com",
+        "feina": false,
+        "curs": "SMX"
     }
 ]
